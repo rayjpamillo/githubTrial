@@ -1,1 +1,3 @@
 # githubTrial
+
+This will be used for git training purposes...
