@@ -1,7 +1,3 @@
 # githubTrial
 
-<<<<<<< Updated upstream
-This will be used for git training purposes...
-=======
-git clone add, remove
->>>>>>> Stashed changes
+23. This time commit first the locally edited file. Don't push yet.
